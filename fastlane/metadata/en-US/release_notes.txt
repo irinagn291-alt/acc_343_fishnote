@@ -1,0 +1,10 @@
+Initial release of Fishnote.
+
+• “Pets”: create, rename, pause, reactivate, and remove household pets.
+• “Routines”: create, name, assign, order, pause, reactivate, and remove daily care rounds.
+• “Beckon”: select a pet with care still due.
+• “Hand”: record one completed round by button, pet-card tap, or token drag.
+• “Undo”: reopen the latest eligible round from today.
+• “Care log”: dated care records grouped by pet, including retained “Archived care”.
+• “Complete days in a row”: consecutive complete-day tracking.
+• “Saved on this device”: offline household records and progress.

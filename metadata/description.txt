@@ -1,0 +1,15 @@
+Fishnote records daily pet-care routines for a household with one or more animals. Users name their pets, arrange each pet’s care rounds, and use a token to record completed care, review daily history, and track consecutive complete days.
+
+• “Pets”: create, rename, pause, reactivate, and remove household pets.
+• “Routines”: create, name, assign, order, pause, reactivate, and remove daily care rounds.
+• “Beckon”: select a pet with care still due.
+• “Hand”: record one completed round by button, pet-card tap, or token drag.
+• “Undo”: reopen the latest eligible round from today.
+• “Day complete”: automatic completion after every currently due round is logged.
+• “Care log”: dated care records grouped by pet, including retained “Archived care”.
+• “Complete days in a row”: consecutive complete-day tracking.
+• “How care works” and “Read the introduction”: in-app instructions.
+• “Saved on this device”: offline household records and progress.
+• “Reset all data”: remove the household and its history.
+
+Pets and care rounds stay on this device. No account or network is required.
